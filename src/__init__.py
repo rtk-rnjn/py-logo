@@ -1,2 +1,4 @@
-from .interpreter import LogoInterpreter  # noqa: F401
-from .parser import LogoParser  # noqa: F401
+from .interpreter import *
+from .parser import *
+from .turtle import *
+from .utils import *
